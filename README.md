@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, etc.<br>- ⚡ In my free time I enjoy listening to music, doodling, designing posters, exploring new technology, and binge-watching shows.</p>
+<p align="left">- 🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, etc.<br>- ⚡ In my free time, I enjoy listening to music, doodling, designing posters, exploring new technology, and binge-watching shows.</p>
 
 ###
 
