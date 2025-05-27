@@ -25,7 +25,12 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, etc.<br>- ⚡ In my free time, I enjoy listening to music, doodling, designing posters, exploring new technology, and binge-watching shows.</p>
+<p align="left">- 🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, etc.<br>- ⚡ In my free time, I enjoy listening to music, doodling, designing posters, exploring new technology, and binge-watching shows.<br>- 📫 How to reach me **birlautkarshi@gmail.com**</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarshi-birla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarshi-birla/" height="30" width="40" /></a>
+</p>
 
 ###
 
