@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, etc.<br>- ⚡ In my free time, I enjoy listening to music, doodling, designing posters, exploring new technology, and binge-watching shows.<br>- 📫 How to reach me: birlautkarshi@gmail.com</p>
+<p align="left">- 🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, etc.<br>- ⚡ In my free time, I enjoy listening to music, doodling, designing posters, exploring new technology, and binge-watching shows.<br>- 📫 How to reach me: **birlautkarshi@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
