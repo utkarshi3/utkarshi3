@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 # 💫 About Me:
 -🔭 I’m a Computer Science student pursuing CSE specializing in AI/ML.<br>- 📚 I'm currently learning Data Science, Machine Learning, SQL, Python, DSA, Power BI.<br>- ⚡ In my free time, I enjoy exploring new technology, travelling, listening to music, doodling, designing posters, and binge-watching shows.<br>- 🤝 Looking to collaborate on: Data-driven projects and AI-based solutions<br>- 📊 Fun Fact - I blend code and creativity to solve real-world problems!<br>- 📫 How to reach me: birlautkarshi@gmail.com
 
